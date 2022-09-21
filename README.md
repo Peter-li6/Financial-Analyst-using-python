@@ -11,3 +11,4 @@ Themes include but are not limited to:
 7. Webscraping using Scrapy Spider API (application: Scrape Financial information from Yahoo finance and output onto xlsx file)
 8. Created basic front end UI using TKinter complete with buttons! 
 
+I am new to Github so I will be uploading files on a rolling basis. Hope to connect with you all!
