@@ -1,5 +1,5 @@
 # Financial-Analyst-using-python
-Welcome to my repository. In this repository I have uploaded work that I have done in my 4th year Finance courses at the University of Toronto.
+Welcome to my repository. In this repository I have uploaded code written in my 4th year Finance courses at the University of Toronto.
 Themes include but are not limited to: 
 1. Back-testing stock returns using Fama-French 3 Factor model
 2. Using Machine Learning to Predict default (given excel file containing loan info)
