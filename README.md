@@ -6,5 +6,6 @@ Themes include but are not limited to:
 3. Integrating Quandl to import financial data from the NASDAQ
 4. Integrating Twilio to send SMS notifcations conditional on user defined specifications
 5. Using the FOMC (Federal Open Market Committee) annoucments to Predict movements in the VIX (volatility Index) 
-6. Created basic front end UI using TKinter complete with buttons! 
+6. Financial Sentiment Analysis using BeautifulSoup, nltk.corpus (ddetermine if article is positive or negative)
+7.. Created basic front end UI using TKinter complete with buttons! 
 
